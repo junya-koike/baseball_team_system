@@ -16,7 +16,7 @@
             <div id="header">
                 <h1>草野球チームHP運営サービス</h1>
                 <p><a href="<c:url value='/login/' />">ログイン</a></p>
-                <p><a href="<c:url value='/signup/' />">ユーザー登録</a></p>
+                <p><a href="<c:url value='/signup/' />">チーム登録</a></p>
             </div>
             <div id="content">
                 ${param.content}
