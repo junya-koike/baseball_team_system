@@ -11,6 +11,10 @@ body {
     background-color: #333333;
 }
 
+#header h1 {
+    color: white;
+}
+
 #content {
     width: 94%;
     margin-top: 15px;
